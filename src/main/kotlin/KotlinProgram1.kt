@@ -4,4 +4,5 @@ fun main() {
     on the screen */
 
     print("Hello World!")
+    print("Hi World!")
 }
